@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 3. Set up your Gemini API key:
    - Get an API key from Google AI Studio
-   - Replace the `GEMINI_API_KEY` in `main.py` with your key
+   - Replace the `GEMINI_API_KEY` in `config.py` with your key
 
 ## Usage
 
